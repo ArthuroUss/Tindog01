@@ -1,0 +1,137 @@
+body {
+  font-family: "Ubuntu";
+}
+
+.foterr {
+  padding: 7% 10%;
+  margin-top: 20px;
+  margin-bottom: 90px;
+  background-color: white;
+  width: initial;
+  height: 120px;
+  text-align: center;
+  color: black;
+}
+.iconss {
+  margin-bottom: 50px;
+}
+.soc-icon {
+  margin: 15px;
+}
+#cta {
+  background-color: #ff4c66;
+  color: white;
+  text-align: center;
+  padding: 7% 10%;
+}
+.cta-header {
+  line-height: 1, 5;
+  font-size: 3rem;
+  margin-bottom: 40px;
+}
+
+#title {
+  background-color: #ff4c66;
+  color: white;
+}
+
+h1 {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+h2 {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  line-height: 1, 5;
+}
+h3 {
+  font-size: 2rem;
+  line-height: 1, 5;
+}
+
+.container-fluid {
+  padding: 5% 5%;
+}
+.row {
+  margin-top: 50px;
+}
+#dog {
+  margin-top: 25px;
+  width: 35%;
+
+  /* transform: rotate(-20deg); */
+}
+
+.navbar-nav {
+  margin-right: 40px;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: initial;
+}
+.nav-item {
+  padding: 0 7px;
+}
+.downl-buttons {
+  margin: 5px 25px 25px 0;
+}
+.logo {
+  margin-right: 10px;
+}
+#features {
+  padding: 7% 10%;
+}
+.container2 {
+  text-align: center;
+}
+.icon {
+  margin-bottom: 25px;
+  color: #ff4c66;
+}
+.icon:hover {
+  color: #f4a5b1;
+}
+#testimonials {
+  text-align: center;
+  background-color: #f4b280;
+  color: white;
+}
+.carousel-item {
+  padding: 7% 12% 0% 12%;
+}
+.testimonials-image {
+  border-radius: 100%;
+  width: 15%;
+  margin: 30px;
+}
+#press {
+  background-color: #f4b280;
+  padding: 40px;
+  text-align: center;
+  /* border-top: solid black 3px;
+  border-bottom: solid black 3px; */
+}
+.press-images {
+  width: 16%;
+  margin: 34px;
+}
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+p {
+  color: gray;
+}
+@media (min-width: 1048px) {
+  .row {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .navbar-toggler {
+    text-align: left;
+  }
+}
